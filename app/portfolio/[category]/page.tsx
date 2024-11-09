@@ -52,7 +52,7 @@ const Category: React.FC<CategoryProps> = ({ params }) => {
       <div className={styles.item}>
         <div className={styles.content}>
           <h1 className={styles.title}>Strong Together Charity</h1>
-          <p className={styles.desc}>Fado is a music style that arose in Portugal in the early 19th century. The word "fado" means fate or destiny. Fado music is known for its melancholic melodies that are often accompanied by a Portuguese guitar. The lyrics of Fado songs are typically about love, loss and everyday life struggles. Fado songs are sung with a deep sense of emotion by the so-called "Fadistas", the Fado singers.</p>
+          <p className={styles.desc}>Fado is a music style that arose in Portugal in the early 19th century. The word fado means fate or destiny. Fado music is known for its melancholic melodies that are often accompanied by a Portuguese guitar. The lyrics of Fado songs are typically about love, loss and everyday life struggles. Fado songs are sung with a deep sense of emotion by the so-called Fadistas, the Fado singers.</p>
           <Button text="See More" url="#" />
         </div>
         <div className={styles.imgContainer}>
